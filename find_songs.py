@@ -77,24 +77,24 @@ if PROOF_ON_CONCEPT:
             ("rain",): ["g4flAZEgtjs"],
             ("ronaldo",): ["bTk5ZcL0XZ4"],
             ("sun",): ["TiCxqhu9cio"],
-            ("doodle", "yankee"): ["IzRhFH5OyHo"]
-            ("joyful",): ["1z6XJp8Dctg"]
-            ("unhappy",): ["nVjsGKrE6E8"]
-            ("worried",): ["L3HQMbQAWRc"]
-            ("bees",): ["aXqYVSaHplk"]
-            ("frog",): ["k85mRPqvMbE"]
-            ("winter",): ["RA26uXxh5O0"]
-            ("summer",): ["ebXbLfLACGM"]
-            ("studying",): ["UNo_77aS4zs"]
-            ("pen",): ["WCK5Cq5j0jk"]
-            ("pencil",): ["WCK5Cq5j0jk"]
-            ("fail",): ["qOaqiCBum2w"]
-            ("eraser",): ["hlvZ_8V6uc4"]
-            ("test",): ["hlvZ_8V6uc4"]
-            ("break up",): ["GA4JCDGG5Zg"]
-            ("I cheated",): ["eC-F_VZ2T1c"]
-            ("admire",): ["K8jy_klOlP0"]
-            ("good-looking",): ["K5G1FmU-ldg"]
+            ("doodle", "yankee"): ["IzRhFH5OyHo"],
+            ("joyful",): ["1z6XJp8Dctg"],
+            ("unhappy",): ["nVjsGKrE6E8"],
+            ("worried",): ["L3HQMbQAWRc"],
+            ("bees",): ["aXqYVSaHplk"],
+            ("frog",): ["k85mRPqvMbE"],
+            ("winter",): ["RA26uXxh5O0"],
+            ("summer",): ["ebXbLfLACGM"],
+            ("studying",): ["UNo_77aS4zs"],
+            ("pen",): ["WCK5Cq5j0jk"],
+            ("pencil",): ["WCK5Cq5j0jk"],
+            ("fail",): ["qOaqiCBum2w"],
+            ("eraser",): ["hlvZ_8V6uc4"],
+            ("test",): ["hlvZ_8V6uc4"],
+            ("break up",): ["GA4JCDGG5Zg"],
+            ("I cheated",): ["eC-F_VZ2T1c"],
+            ("admire",): ["K8jy_klOlP0"],
+            ("good", "looking",): ["K5G1FmU-ldg"],
         }
     )
 
