@@ -17,6 +17,27 @@ SYNONYMS = {
     "dogs": ["dog"],
     "loving": ["love"],
     "sunny": ["sun"],
+    "happy": ["joyful"],
+    "sad": ["unhappy"],
+    "angry": ["worried"],
+    "worry": ["worried"],
+    "bee": ["bees"],
+    "frogs": ["frog"],
+    "cold": ["winter"],
+    "hot outside": ["summer"],
+    "student": ["studying"],
+    "study": ["studying"],
+    "test tomorrow": ["studying"],
+    "pens": ["pen"],
+    "pencils": ["pencil"],
+    "exam": ["test"],
+    "quiz": ["test"],
+    "broke up": ["break up"],
+    "dump": ["break up"],
+    "I left": ["I cheated"],
+    "love": ["admire"],
+    "cute": ["good looking"],
+    "hot": ["good looking"],
 }
 
 
@@ -57,6 +78,9 @@ if PROOF_ON_CONCEPT:
             ("ronaldo",): ["bTk5ZcL0XZ4"],
             ("sun",): ["TiCxqhu9cio"],
             ("doodle", "yankee"): ["IzRhFH5OyHo"]
+            ("joyful",): ["1z6XJp8Dctg"]
+            ("unhappy",): ["nVjsGKrE6E8"]
+            ("worried",): ["L3HQMbQAWRc"]
         }
     )
 
